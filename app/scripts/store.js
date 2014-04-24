@@ -1,0 +1,1 @@
+ColecodingGithubIo.ApplicationAdapter = DS.FixtureAdapter;
