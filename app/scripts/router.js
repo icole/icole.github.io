@@ -1,3 +1,6 @@
 ColecodingGithubIo.Router.map(function () {
-  // Add your routes here
+  this.resource('work');
+  this.resource('education');
+  this.resource('reading');
+  this.resource('about');
 });
